@@ -218,11 +218,11 @@ LoadBalancer Service
 
 Grafana
 
-![Grafana](screenshots/node.jpeg)
+![Grafana](screenshots/garafana.jpeg)
 
 Grafana Workload
 
-![Grafana Workload](screenshots/kubernetes-ns-workload.jpeg)
+![Grafana Workload](screenshots/grafana-workload.jpeg)
 
 Application Running
 
